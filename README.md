@@ -9,6 +9,15 @@ A content-based movie recommendation system that suggests movies based on user p
 - **Interactive user interface**: Built with `Streamlit` to allow users to search and receive recommendations easily.
 - **Real-time data**: Integrates with the TMDB API to retrieve additional movie details.
 
+# Website
+
+![screenshot1](https://github.com/khushi-rajput04/Movie-Recommendation-System/blob/main/screenshot1.png)
+
+![screenshot2](https://github.com/khushi-rajput04/Movie-Recommendation-System/blob/main/screenshot2.png)
+
+![screenshot3](https://github.com/khushi-rajput04/Movie-Recommendation-System/blob/main/screenshot3.png)
+
+
 ## Tech Stack
 
 - **Frontend**: HTML, CSS (via Streamlit)
